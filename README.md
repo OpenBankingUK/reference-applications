@@ -26,9 +26,8 @@ Because the standards will evolve over time and because participant adoption is 
 
 | Application | Key Features | Availability |
 | --- | --- | --- | 
-| FAPI Conformance Suite | Allows an ASPSP to test their implementation against the OB security profile. Produces a conformance report which can be shared/posted to a central space to share proof of conformance. | Due early Dec |
+| FAPI Conformance Suite | Online tool which allows an ASPSP to test their implementation against the OB security profile. Produces a conformance report which can be shared/posted to a central space to share proof of conformance. | Due early Dec |
 | JSON Data Validation Tool | Online tool which allows an ASPSP to test the response/output of any API endpoint to validate that the JSON and data formats meet the schema. | Due early Nov |
-| Reference ASPSP Implementation(s) | Hosted implenmentation which 'mocks' a given real (or ficitious) ASPSP and has stubbed or dynamic data sitting behind each of the functional API endpoints. | Available to enrolled participants via the OB Directory |
+| Reference ASPSP Implementations | Hosted 'model banks' for real (or ficitious) ASPSPs with stubbed/dynamic data behind each of the functional API endpoints. | Available to enrolled participants via the OB Directory |
 | TPP Onboarding Application | Downloadable tool which a TPP can install (on their infra) and which allows creation of an SSA and (via a number of steps) get client credentials for s/w statement for one or more ASPSPs (as long as they support auto registration). Allows TPP to confirm that credentials work via a test page which allows a PSU to connect to ASPSP end point(s) to authenticate and get an access token for a specific user to get list of accounts. | Due early Nov |
-| TPP Reference Applications | Web applications which simulate TPP applications for each of the AISP and PISP use cases.
- | See https://github.com/OpenBankingUK/reference-applications/blob/master/tpp-reference-applications.md |
+| TPP Reference Applications | Downloadable web applications which simulate TPP applications for each of the AISP and PISP use cases. | See https://github.com/OpenBankingUK/reference-applications/blob/master/tpp-reference-applications.md |
