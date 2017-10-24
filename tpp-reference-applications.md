@@ -61,9 +61,9 @@ Setup and detailed info here: https://github.com/OpenBankingUK/reference-mock-se
 
 ## Release plan (for AISP application)
 
-| Release | Sprint (Date)  | Functionality |
-| ------- | -------------- | --- |
-| 0.1.0   | 17 (10 Oct 17) | Login to TPP app and select ASPSP from list, request accounts & balance data, view account balances |
-| 0.2.0   | 18 (24 Oct 17) | Gets ASPSP list from test OB Directory, setup account request |
-| 0.3.0   | 19 (07 Nov 17) | Authorise consent |
-| 0.4.0   | 20 (21 Nov 17) | list ASPSPs TPP has registered with, call ref ASPSP authorisation server, data from Reference ASPSP |
+| Release | Sprint | Date   | Functionality |
+| ------- | ------ | ------ | --- |
+| 0.1.0   | 17     | 10 Oct | Login to TPP app and select ASPSP from list, request accounts & balance data, view account balances |
+| 0.2.0   | 18     | 24 Oct | Gets ASPSP list from test OB Directory, setup account request |
+| 0.3.0   | 19     | 07 Nov | Authorise consent |
+| 0.4.0   | 20     | 21 Nov | List ASPSPs TPP has registered with, call ref ASPSP authorisation server, data from Reference ASPSP |
