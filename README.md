@@ -28,4 +28,4 @@ Because the standards will evolve over time and because participant adoption is 
 * JSON Data Validation Tool (formerly known as the Test Harness) - see 
 * Reference ASPSP Implementation (formerly known as a Model Bank) - see
 * TPP Onboarding Application (formerly known as the Skinny App) - see 
-* TPP Reference Applications - see reference-applications/tpp-reference-applications.md
+* TPP Reference Applications - see https://github.com/OpenBankingUK/reference-applications/blob/master/tpp-reference-applications.md
