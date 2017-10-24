@@ -1,7 +1,5 @@
 # FAPI Conformance Suite
 
-Tools which allow an ASPSP to run tests to check conformance to the OIDC FAPI security profile.
-
 ## Background
 
 The Open ID Foundation (OIDF) profiles are a robust set of security standards for the safe provision of Financial APIs (FAPIs) that offer the highest level of protection for all participants; in particular end users. One of the main benefits of using the OIDF security standards is that the OIDF facilitates individual organisations to attest to OpenID standards through a self-certification process using an OIDF supplied and maintained suite of tests. The log files generated during self-certification are made available for peer review using an open and transparent approach.
