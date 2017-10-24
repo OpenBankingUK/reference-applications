@@ -9,9 +9,9 @@ There are 2 core user needs:
 
 Initially this application is limited to the use case for an Account Information Service Provider (AISP).
 
-## Health warning relating to support
+## Caveat
 
-This release is an early preview of the TPP Reference Application so that developers can download and try out the code. Eventually the intention is to publish this application together with detailed documentation in public GitHub repositories, and to provide support for enrolled developers. In this version documentation is limited and OBIE cannot provide any support for this version of the application, however we will do our best to respond to any comments raised below.
+This release is an early preview of the TPP Reference Application so that developers can download and try out the code. In this version documentation is limited and OBIE cannot provide any support for this version of the application, however we will do our best to respond to any comments raised via the Open Banking Service Desk (https://openbanking.atlassian.net/browse/OBSD).
 
 ## AISP application
 
