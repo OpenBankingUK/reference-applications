@@ -7,17 +7,13 @@ There are 2 core user needs:
 * As an ASPSP I want to test my endpoints (without exposing them to live applications) so that I can ensure that they work.
 * As a TPP (AISP or PISP) I want example code so that I can build my application(s) more quickly.
 
-Initially this application is limited to the use case for an Account Information Service Provider (AISP).
-
 ## Caveat
 
 This release is an early preview of the TPP Reference Application so that developers can download and try out the code. In this version documentation is limited and OBIE cannot provide any support for this version of the application, however we will do our best to respond to any comments raised via the Open Banking Service Desk (https://openbanking.atlassian.net/browse/OBSD).
 
-## AISP application
+## Application architecture
 
-This application uses the architecture below to simulate an AISP - a third party (TPP) application that can aggregate account balances for their customer.
-
-Our AISP creates a unified viewed of the account balances on the frontend while using Open Banking APIs to query for the data.
+This application uses the architecture below to simulate a third party (TPP) application that can aggregate account balances for their customer and initiate a single immediate payment.
 
 This is based on a classic architecture of Frontend, Backend, and (Mock) Server:
 
@@ -32,6 +28,7 @@ This is based on a classic architecture of Frontend, Backend, and (Mock) Server:
             =  Store  =  =  Cache  =
             ===========  ===========
 ```
+The application can also integrate (via the test instance of the Open Banking Directory) with any test ASPSP implementations which are enrolled.
 
 ### Frontend
 
