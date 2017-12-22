@@ -65,3 +65,4 @@ Setup and detailed info here: https://github.com/OpenBankingUK/reference-mock-se
 | 0.3.0   | 19     | 07 Nov | Authorise consent |
 | 0.4.0   | 20     | 21 Nov | List ASPSPs TPP has registered with, call ref ASPSP authorisation server, data from Reference ASPSP |
 | 0.5.0   | 21     | 05 Dec | Payment initiation API |
+| 0.6.0   | 22     | 19 Dec | Various fixes and enhancements as per release notes |
